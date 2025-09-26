@@ -7,7 +7,7 @@
 5. Visualization of results
 6. Analysis of results
 7. Deployment through an interactive web app
-- Streamlit + Hugging Face
+	- Streamlit + Hugging Face
 
 
 
