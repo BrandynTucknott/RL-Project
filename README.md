@@ -12,8 +12,11 @@
 
 
 Notes to self:
+
 *Italics*
+
 **Bold**
+
 ***Bold and Italics***
 
 `inline code`
