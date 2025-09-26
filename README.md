@@ -1,15 +1,18 @@
 # Broad Project Outline
 
 1. Formulate an original problem statement
+    - motivation: safely explore a new environment
+    - goal: given a fixed map size, safely navigate and map the environment
+	- POTENTIAL ISSUES: is this an appropriate RL problem?
 2. Create or modify an environment
+    - partially observable
+	- sparse rewards
 3. Choose two or more modern algorithms (at least one on and off policy)
 4. Hyperparameter tuning
 5. Visualization of results
 6. Analysis of results
 7. Deployment through an interactive web app
-	- Streamlit + Hugging Face
-
-
+    - Streamlit + Hugging Face
 
 Notes to self:
 
