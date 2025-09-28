@@ -15,6 +15,9 @@
     - Streamlit + Hugging Face
 
 Notes to self:
+- Tiger Beetle: database simulation testing to prove correctness; runnable in browser
+    - https://tigerstyle.dev/
+    - https://github.com/tigerbeetle/tigerbeetle
 
 *Italics*
 
